@@ -1,0 +1,11 @@
+name: myenv
+dependencies:
+  - numpy
+  - pandas
+  - pip
+  - pip:
+    - matplotlib
+    - pinecone-client
+    - openai
+    - ksql==0.10.1.1
+    - altair
