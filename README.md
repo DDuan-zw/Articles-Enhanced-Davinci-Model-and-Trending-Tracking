@@ -25,4 +25,4 @@ ksql
 
 
 ## Streamlit Page
-![alt text](https://github.com/DDuan-zw/Articles-Enhanced-Davinci-Model-and-Trending-Tracking/blob/main/src/streamlit_interface.png)
+![alt text](https://github.com/DDuan-zw/Articles-Enhanced-Davinci-Model-and-Trending-Tracking/blob/main/src/streamlit_UI.png)
