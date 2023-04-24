@@ -21,8 +21,8 @@ ksql
 ```
 5. Upload all dags in Airflow folder to composer Buckets.
 6. Set all keys and secrets Variables in Airflow by Admin-->Variables.
-
-
+## Airflow page
+![alt text](https://github.com/DDuan-zw/Articles-Enhanced-Davinci-Model-and-Trending-Tracking/blob/main/src/airflow_ui.png)
 
 ## Streamlit Page
 ![alt text](https://github.com/DDuan-zw/Articles-Enhanced-Davinci-Model-and-Trending-Tracking/blob/main/src/streamlit_UI.png)
